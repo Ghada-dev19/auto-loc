@@ -62,11 +62,10 @@ Auto-Loc est une application web de location de voitures permettant aux clients 
 ## 🚀 Lien vers l’application déployée
 
 🔗 [https://auto-loc-xxxx.vercel.app](https://auto-loc-bejr.vercel.app/)  
-*(Remplacez `xxxx` par votre URL réelle fournie par Vercel)*
 
 ---
 
-## 👥 Auteurs (Binôme)
+## 👥 Équipe des développeurs
 
 - **Nom Étudiant 1** : Gherraz Ghada
 - **Nom Étudiant 2** : Serir Dalia
