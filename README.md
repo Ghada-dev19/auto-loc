@@ -69,6 +69,8 @@ Auto-Loc est une application web de location de voitures permettant aux clients 
 
 - **Nom Étudiant 1** : Gherraz Ghada
 - **Nom Étudiant 2** : Serir Dalia
+- **Nom Étudiant 3** : Boulemnakher Taqiyeddine
+- **Nom Étudiant 3** : Rahmani Wassim Takieddine
 
 ---
 
